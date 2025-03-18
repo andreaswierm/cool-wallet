@@ -1,8 +1,8 @@
 {
-  "name": "<wallet-package-name>",
-  "author": "<wallet-author>",
-  "description": "<wallet-description>",
-  "version": "0.0.0",
+  "name": "cool-wallet",
+  "author": "Andreas Wiermann Casas",
+  "description": "Coolest Wallet in the World",
+  "version": "0.0.4",
   "type": "module",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
