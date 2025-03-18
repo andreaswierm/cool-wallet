@@ -2,7 +2,7 @@
   "name": "cool-wallet",
   "author": "Andreas Wiermann Casas",
   "description": "Coolest Wallet in the World",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "type": "module",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
